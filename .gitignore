@@ -15,7 +15,7 @@ __pycache__/
 .vscode/
 
 # Models
-#*.keras
+*.keras
 *.h5
 *.pb
 
