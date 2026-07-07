@@ -20,9 +20,8 @@ A Deep Learning web application that detects **Pneumonia** from Chest X-ray imag
 
 ### Streamlit Interface
 
-> Add a screenshot here
 
-![App Screenshot](outputs/app_screenshot.png)
+![App Screenshot](../../OneDrive/Pictures/Screenshots/Screenshot%202026-07-07%20123125.png)
 
 ---
 
