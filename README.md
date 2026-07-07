@@ -167,9 +167,7 @@ Pneumonia_Detection/
 │
 ├── notebooks/
 │   ├── 01_dataset_exploration.ipynb
-│   ├── 02_data_preprocessing.ipynb
-│   ├── 03_model_training.ipynb
-│   └── 04_model_evaluation.ipynb
+│   ├── 02_model_training.ipynb
 │
 └── outputs/
 ```
